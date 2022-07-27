@@ -1,2 +1,0 @@
-#Preamble
-Clustering is the process of dividing the datasets into groups such that points in the same group are as similar as possible, and points in different groups are as dissimilar as possible. The k-means algorithm finds groups with the number of groups represented by the variable $K$. The algorithm works in an iterative manner to assign each data point to one of the k groups based on the features that are provided.
