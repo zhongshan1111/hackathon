@@ -9,7 +9,7 @@ K-means clustering can be used in almost every domain, ranging from banking to r
 
 Since either insurance fraud detection and transaction fraud detection can potentially have a multi-million dollar impact on a company, the ability to detect frauds is of crucial importance.
 
-# Business Pitch: Improve Transaction Fraud Detection 
+# Business: Improve Transaction Fraud Detection 
 Today, Internet has become the essential component of life. Now a day’s shopping in home is liked by more and more people especially the young people. Apart from shopping buying virtual goods also become popular, for example, microtransaction in games. Credit cards are often used to do the purchase. As Credit card has the power to purchase the things, its frauds also increased. For example, Credit card fraud costs American companies billions of dollars each year. While consumers are never on the hook for fraudulent charges, reporting thefts and replacing cards can be aggravating and time consuming.
 
 <img width="468" alt="bankcard" src="https://user-images.githubusercontent.com/79662449/181138035-a45c4579-27fd-4ca4-8f2d-283c8653cbef.png">
